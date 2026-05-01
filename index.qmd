@@ -1,7 +1,9 @@
 ---
 title: "Trevor Patton"
-description: USMA Cadet | Grappler | Weight Lifter | God Fearer
+description: Weight Lifter | Grappler | God Fearer
 ---
+
+<img src="images/engagement.jpeg" style="float: left; width: 400px; margin-right: 40px;">
 
 Projects:
 
@@ -16,4 +18,3 @@ Cool Stuff:
 
 
 Interests:
-
