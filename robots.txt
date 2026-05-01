@@ -1,1 +1,1 @@
-Sitemap: https://t-patton93.github.io/firstwebsite/sitemap.xml
+Sitemap: https://tpatton.dev/sitemap.xml
