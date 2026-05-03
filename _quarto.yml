@@ -3,7 +3,7 @@ project:
   
 
 website:
-  title: "tpatton"
+  title: "Trevor Patton"
   navbar:
     left:
       - href: index.qmd
