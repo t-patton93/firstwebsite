@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I am a cadet at the United States Military Academy finishing my third year. 
+I am currently studying Cyber Science and am interested in network operations, 
+offensive cyber operations, and ethical hacking. 
+
+I am currently learning and applying my skills through TryHackMe and in personal
+projects. 
