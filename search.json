@@ -1,16 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Trevor Patton",
-    "section": "",
-    "text": "Projects:\nReading List:\nCool Stuff:\nInterests:\n\nTryHackMe: My Profile"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "I am a cadet at the United States Military Academy finishing my third year. I am currently studying Cyber Science and am interested in network operations, offensive cyber operations, and ethical hacking.\nI am currently learning and applying my skills through TryHackMe and in personal projects."
+    "text": "THE PERSON BEHIND THE WORK"
+  },
+  {
+    "objectID": "about.html#what-im-learning",
+    "href": "about.html#what-im-learning",
+    "title": "About",
+    "section": "What I’m learning",
+    "text": "What I’m learning\nI enjoy taking ideas beyond the classroom and putting them into practice. TryHackMe and personal projects give me opportunities to explore, experiment, and build a deeper understanding of cyber security.\nI’m especially interested in the relationship between understanding how systems work and understanding how to protect them."
+  },
+  {
+    "objectID": "about.html#beyond-the-screen",
+    "href": "about.html#beyond-the-screen",
+    "title": "About",
+    "section": "Beyond the screen",
+    "text": "Beyond the screen\nWeightlifting and grappling are important parts of my life. So is my faith. They belong here alongside my academic and technical interests, because a professional introduction should still feel personal."
+  },
+  {
+    "objectID": "about.html#follow-along",
+    "href": "about.html#follow-along",
+    "title": "About",
+    "section": "Follow along",
+    "text": "Follow along\nYou can find my public work on GitHub and my learning profile on TryHackMe.\nBack to home →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "CYBER SCIENCE / WEST POINT\n\n\n\n\nI’m a senior studying Cyber Science at the United States Military Academy, with an expected graduation in June 2027. I’m interested in how networks work, how they can be secured, and what hands-on exploration can teach us.\n\nGet to know me Explore my interests ↓\n\nWeight lifter. Grappler. God fearer.\n\n\n\n\n BEYOND THE SCREEN"
+  },
+  {
+    "objectID": "index.html#curiosity-in-the-digital-world.-discipline-in-everything-else.",
+    "href": "index.html#curiosity-in-the-digital-world.-discipline-in-everything-else.",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a senior studying Cyber Science at the United States Military Academy, with an expected graduation in June 2027. I’m interested in how networks work, how they can be secured, and what hands-on exploration can teach us.\n\nGet to know me Explore my interests ↓\n\nWeight lifter. Grappler. God fearer."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Home",
+    "section": "Learning by doing.",
+    "text": "Learning by doing.\nThe areas that keep me curious—and keep me coming back to learn more."
+  },
+  {
+    "objectID": "index.html#projects-with-room-to-grow.",
+    "href": "index.html#projects-with-room-to-grow.",
+    "title": "Home",
+    "section": "Projects, with room to grow.",
+    "text": "Projects, with room to grow.\nI’m building my foundation in cyber security. This space will grow into a collection of projects and the lessons behind them."
+  },
+  {
+    "objectID": "index.html#a-notebook-for-the-journey.",
+    "href": "index.html#a-notebook-for-the-journey.",
+    "title": "Home",
+    "section": "A notebook for the journey.",
+    "text": "A notebook for the journey.\nA future home for reflections on cyber, reading notes, and useful things I discover along the way."
+  },
+  {
+    "objectID": "index.html#more-than-what-happens-on-a-screen.",
+    "href": "index.html#more-than-what-happens-on-a-screen.",
+    "title": "Home",
+    "section": "More than what happens on a screen.",
+    "text": "More than what happens on a screen.\nWeightlifting, grappling, and faith are part of who I am. This is a space for both my professional interests and the person behind them.\nMore about me →"
   }
 ]
