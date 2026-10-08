@@ -1,22 +1,29 @@
 project:
   type: website
-  
-
+  resources:
+    - CNAME
 website:
   title: "Trevor Patton"
+  site-url: https://tpatton.dev
+  description: "Cyber Science, hands-on learning, and life beyond the screen."
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: About
+      - href: https://github.com/t-patton93
+        text: GitHub ↗
+  page-footer:
+    left: "Trevor Patton · Curiosity. Discipline. Purpose."
+    right:
+      - text: TryHackMe ↗
+        href: https://tryhackme.com/p/trevordpatton
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    pagetitle: "{{< meta title >}} | Trevor Patton"
+    anchor-sections: false
+    smooth-scroll: true

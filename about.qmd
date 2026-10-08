@@ -1,10 +1,29 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-I am a cadet at the United States Military Academy finishing my third year. 
-I am currently studying Cyber Science and am interested in network operations, 
-offensive cyber operations, and ethical hacking. 
+[THE PERSON BEHIND THE WORK]{.eyebrow}
 
-I am currently learning and applying my skills through TryHackMe and in personal
-projects. 
+# A little about me.
+
+::: {.about-intro}
+I'm Trevor, a senior studying Cyber Science at the United States Military Academy with an interest in network operations, offensive cyber operations, and ethical hacking.
+:::
+
+I expect to graduate in June 2027.
+
+## What I'm learning
+
+I enjoy taking ideas beyond the classroom and putting them into practice. TryHackMe and personal projects give me opportunities to explore, experiment, and build a deeper understanding of cyber security.
+
+I'm especially interested in the relationship between understanding how systems work and understanding how to protect them.
+
+## Beyond the screen
+
+Weightlifting and grappling are important parts of my life. So is my faith. They belong here alongside my academic and technical interests, because a professional introduction should still feel personal.
+
+## Follow along
+
+You can find my public work on [GitHub](https://github.com/t-patton93) and my learning profile on [TryHackMe](https://tryhackme.com/p/trevordpatton).
+
+[Back to home →](index.qmd)
